@@ -1,0 +1,2 @@
+# Adafruit-Editorial-Standards
+Adafruit publishes a wide range of writing and video content, including interviews and reporting on the maker market and the wider technology world.  This document is intended as a guide to best practices that Adafruit uses, as well as an outline of the ethical standards Adafruit aspires to.  While Adafruit is not an independent journalistic institution, Adafruit strives to be a fair, informative, and positive voice within the community.
